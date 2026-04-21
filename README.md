@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Ilona Sinn, I'm a first year PhD candidate at the University of Wollongong 
 <!--
 **ilonasinn/ilonasinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
