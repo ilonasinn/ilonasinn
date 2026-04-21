@@ -6,7 +6,7 @@ My name is Ilona Sinn, I'm a first year PhD candidate at the University of Wollo
 
 -   🌱 I'm currently learning how to use **Github**
 
--   📫 How to reach me [**is524\@uowmail.edu.au**](mailto:is524@uowmail.edu.au){.email}
+-   📫 How to reach me [**is524\@uowmail.edu.au**](mailto:is524@uowmail.edu.au)
 
 -   ⚡ Fun fact **I have a twin sister. Same inputs but different outputs — she works with fashion models; I work with statistical ones!**
 
