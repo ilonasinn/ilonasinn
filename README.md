@@ -2,7 +2,7 @@
 
 My name is Ilona Sinn, I'm a first year PhD candidate at the University of Wollongong.
 
--   🔭 I'm currently working on **Humpback whales in Antarctic waters**
+-   🔭 I'm currently working on **Humpback whales in the Southern Ocean**
 
 -   🌱 I'm currently learning how to use **Github**
 
